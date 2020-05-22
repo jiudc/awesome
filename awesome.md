@@ -14,12 +14,14 @@ This badge is for Awesome lists.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs). You can choose either the regular badge or the flat one.
 
 ```md
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
 *The badges should not be modified in any way.*
@@ -62,7 +64,7 @@ Ensure your list is grammatically correct, typo-free and has no Markdown formatt
 
 ## Choose an appropriate license
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Keep in mind that if you [haven't selected a license](https://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 [Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 
